@@ -51,10 +51,6 @@ Import these notebooks into your Databricks workspace and explore the examples. 
 - Template code for creating your own diagrams
 - Links to official documentation
 
-## Reference Examples
-
-The `ref_examples/` folder contains additional reference implementations from real-world usage.
-
 ## License
 
 MIT License - feel free to use these patterns in your own projects.
