@@ -17,13 +17,13 @@ This repository showcases various "magic" techniques for enhancing Databricks no
 
 | Notebook | Description |
 |----------|-------------|
-| [intro.ipynb](./intro.ipynb) | Overview of the repository and Diagrams as Code concepts |
-| [icons.ipynb](./icons.ipynb) | Vendor icons (AWS, Azure, Databricks, Snowflake, etc.) |
-| [admonitions.ipynb](./admonitions.ipynb) | Info boxes, warnings, notes, and other callouts |
-| [codeblocks.ipynb](./codeblocks.ipynb) | Styled code blocks with syntax highlighting (light/dark mode) |
-| [mermaid.ipynb](./mermaid.ipynb) | Mermaid diagrams - flowcharts, sequences, ER diagrams, and more |
-| [plantuml.ipynb](./plantuml.ipynb) | PlantUML diagrams for UML and architecture |
-| [c4_plantuml.ipynb](./c4_plantuml.ipynb) | C4 architecture diagrams using PlantUML |
+| [01 - Intro.ipynb](./01%20-%20Intro.ipynb) | Overview of the repository and Diagrams as Code concepts |
+| [02 - Icons.ipynb](./02%20-%20Icons.ipynb) | Vendor icons (AWS, Azure, Databricks, Snowflake, etc.) |
+| [03 - Admonitions.ipynb](./03%20-%20Admonitions.ipynb) | Info boxes, warnings, notes, and other callouts |
+| [04 - Codeblocks.ipynb](./04%20-%20Codeblocks.ipynb) | Styled code blocks with syntax highlighting (light/dark mode) |
+| [05 - Mermaid.ipynb](./05%20-%20Mermaid.ipynb) | Mermaid diagrams - flowcharts, sequences, ER diagrams, and more |
+| [06 - Plantuml.ipynb](./06%20-%20Plantuml.ipynb) | PlantUML diagrams for UML and architecture |
+| [07 - C4 Plantuml.ipynb](./07%20-%20C4%20Plantuml.ipynb) | C4 architecture diagrams using PlantUML |
 
 ## Key Technologies
 
