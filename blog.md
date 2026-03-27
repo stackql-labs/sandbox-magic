@@ -34,6 +34,23 @@ Everything renders directly in the notebook — in the workspace, in a dashboard
 
 ---
 
+## Ditch the Slide Deck
+
+Here's the real unlock: **you don't need PowerPoint or Google Slides anymore.**
+
+Think about how presentations typically work on a data platform team. Someone builds a pipeline, then switches to a completely different tool to create slides *about* that pipeline — re-drawing the architecture, re-typing the config, manually screenshotting outputs. The slides are stale before the meeting ends.
+
+With these patterns, **the notebook *is* the presentation**. Architecture reviews, sprint demos, stakeholder updates, platform governance walkthroughs, onboarding sessions — all of it can live in a Databricks notebook that:
+
+- **Stays current** — the diagrams and content sit next to the actual code, so they evolve together
+- **Runs live** — show a stakeholder the real pipeline output in the same notebook that explains the architecture
+- **Needs no extra tooling** — no slide software licenses, no design skills, no "can someone share the deck?"
+- **Is version-controlled** — every change is tracked, every version is recoverable, every review is a PR
+
+A notebook with styled admonitions, inline architecture diagrams, interactive cards, and vendor icons doesn't just *document* your platform — it **presents** it. And unlike a slide deck gathering dust in someone's Google Drive, a notebook in your workspace is always one click away from the live environment.
+
+---
+
 ## Three Patterns Worth Stealing Today
 
 ### 1. Admonitions That Actually Get Read

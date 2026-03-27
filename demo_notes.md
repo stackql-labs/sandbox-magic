@@ -18,18 +18,22 @@
 
 ## Script Outline
 
-### 0:00-0:30 — Hook
+### 0:00-0:45 — Hook
 
-> "If your Databricks notebooks still look like plain markdown with some code cells... you're leaving a lot on the table. I'm going to show you how to turn your notebooks into polished, interactive documents — no Python, no widgets, no cluster required."
+> "If your Databricks notebooks still look like plain markdown with some code cells... you're leaving a lot on the table. I'm going to show you how to turn your notebooks into polished, interactive documents — no Python, no widgets, no cluster required. And here's the thing — you might not need that PowerPoint deck anymore either."
 
 - Show a "before" plain markdown cell vs. an "after" with admonitions and icons
+- Quick flash of a notebook that looks like a presentation (architecture diagram + styled cards + icons)
 
-### 0:30-1:30 — What is Sandbox Magic?
+### 0:45-1:45 — What is Sandbox Magic? (and why ditch the slide deck)
 
 - Briefly show the GitHub repo page
 - "It's a collection of 10 notebooks — open source, copy-paste ready"
 - Show the Intro notebook (01) — scroll through the table of contents
 - Emphasize: **everything runs in `%md-sandbox` cells, zero compute**
+- Sell the business case:
+  - "Think about how you present today — you build a pipeline, then open PowerPoint to make slides *about* that pipeline. The slides are stale before the meeting ends."
+  - "With these patterns, the notebook IS the presentation. Architecture reviews, sprint demos, stakeholder updates, onboarding — it lives next to the code, stays current, and needs no extra tooling."
 
 ### 1:30-3:00 — Icons and Admonitions (Notebooks 02-03)
 
